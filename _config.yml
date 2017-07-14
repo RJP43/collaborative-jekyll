@@ -39,6 +39,7 @@ prose:
       - name: "image_teaser"
         field:
           element: "text"
+          label: 'Post Image'
           value: "https://media3.giphy.com/media/3og0IFRM2W3Ylg4tIA/giphy.gif"
       - name: "published"
         field:
